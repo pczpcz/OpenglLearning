@@ -1,9 +1,0 @@
-﻿  test.cpp
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(265,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(266,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(270,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(271,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(272,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(273,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\opengl_test1\test.cpp(275,29): warning C4305: “初始化”: 从“double”到“float”截断
-  opengl_test1.vcxproj -> D:\workspace\OpenglLearning\lession_6_camera\opengl_test1\x64\Debug\opengl_test1.exe

@@ -1,5 +1,0 @@
-﻿  glad.c
-  test.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-D:\workspace\opengl_test\test1\3rdparty\glfw3\lib\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-D:\workspace\opengl_test\test1\opengl_test1\Debug\opengl_test1.exe : fatal error LNK1120: 1 个无法解析的外部命令
